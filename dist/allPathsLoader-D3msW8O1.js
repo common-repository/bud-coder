@@ -1,0 +1,2 @@
+const __vite__fileDeps=["./allPaths-Cqe-bSKy.js","./index-Z15_5sD4.js","./index-Blrmf0ux.js","./index-cYexHc9m.js","./index-BhdUNBVc.css"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
+import{_ as o,a as i,b as n}from"./index-cYexHc9m.js";var _=function(e,a){return o(void 0,void 0,void 0,function(){var t;return i(this,function(r){switch(r.label){case 0:return[4,n(()=>import("./allPaths-Cqe-bSKy.js"),__vite__mapDeps([0,1,2,3,4]),import.meta.url)];case 1:return t=r.sent().getIconPaths,[2,t(e,a)]}})})};export{_ as allPathsLoader};
